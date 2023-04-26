@@ -14,3 +14,4 @@ Para que o paciente nao precise digitar seus dados para realizar seus agendament
 ### Método Rice
 (110 x 3 x 0.8)/21
 ##### prioridade RICE = 12,57
+
